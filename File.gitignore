@@ -1,0 +1,9 @@
+# Unit test reports
+TEST*.xml
+
+# Log files
+*.log
+
+
+# Package files
+*.jar
